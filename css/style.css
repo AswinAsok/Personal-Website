@@ -1088,15 +1088,15 @@ textarea.form-control {
 }
 
 .social_w3ls_pvt ul li:nth-child(4) a {
-	background: #0077B5;
+	background: linear-gradient(200deg, rgba(252,252,252,1) 0%, rgba(85,85,85,1) 85%);
 }
 
 .social_w3ls_pvt ul li:nth-child(4) a:before {
-	background: #036aa0;
+	background: rgb(58, 58, 58);
 }
 
 .social_w3ls_pvt ul li:nth-child(4) a:after {
-	background: #0d82bf;
+	background: rgb(58, 58, 58);
 }
 
 .social_w3ls_pvt ul li:nth-child(5) a {
