@@ -1087,28 +1087,28 @@ textarea.form-control {
 	background: #e83322;
 }
 
-.social_w3ls_pvt ul li:nth-child(4) a {
+.social_w3ls_pvt ul li:nth-child(5) a {
 	background: linear-gradient(200deg, rgba(252,252,252,1) 0%, rgba(85,85,85,1) 85%);
 }
 
-.social_w3ls_pvt ul li:nth-child(4) a:before {
-	background: rgb(58, 58, 58);
-}
-
-.social_w3ls_pvt ul li:nth-child(4) a:after {
-	background: rgb(58, 58, 58);
-}
-
-.social_w3ls_pvt ul li:nth-child(5) a {
-	background: #bd081c;
-}
-
 .social_w3ls_pvt ul li:nth-child(5) a:before {
-	background: #bd081c;
+	background: rgb(58, 58, 58);
 }
 
 .social_w3ls_pvt ul li:nth-child(5) a:after {
-	background: #bd081c;
+	background: rgb(58, 58, 58);
+}
+
+.social_w3ls_pvt ul li:nth-child(4) a {
+	background:linear-gradient(220deg, #008cffaf, #008cffaf, #008cffaf, #008cffaf, #0077b5)
+}
+
+.social_w3ls_pvt ul li:nth-child(4) a:before {
+	background: #0076b5e0;
+}
+
+.social_w3ls_pvt ul li:nth-child(4) a:after {
+	background: #0076b5e0;
 }
 
 /* //social */
